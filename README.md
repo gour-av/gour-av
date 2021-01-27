@@ -6,4 +6,5 @@
 - 📫 How to reach me:  Email - gouravguru97031@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Likes to build full fledged android apps 
+<img src = "https://github-readme-stats.vercel.app/api?username=gour-av&&show_icons=true&title_color=ffffff&icon_color=bb2acl&text_color=daf7dc&bg_color=808000">
 
